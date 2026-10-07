@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "循环练习1\\x64\\Debug\\循环练习1.obj",
+            "outputs": [
+                "循环练习1\\x64\\Debug\\循环练习1.cpp.obj.dt.module.json",
+                "循环练习1\\x64\\Debug\\循环练习1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "1答案\\x64\\Debug\\1答案.obj",
+            "outputs": [
+                "1答案\\x64\\Debug\\1答案.cpp.obj.dt.module.json",
+                "1答案\\x64\\Debug\\1答案.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
